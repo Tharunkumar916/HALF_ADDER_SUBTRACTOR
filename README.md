@@ -61,7 +61,7 @@ endmodule
 
 **Half-Subtractor**
 ```
-module sub(diff,borrow,a,b);
+module ex3(diff,borrow,a,b);
 output diff,borrow;
 input a,b;
 assign diff = a ^ b;
@@ -82,6 +82,8 @@ Developed by: Tharun Kumar V    RegisterNumber:*/212224240173
 
 
 **Half_Subtractor**
+
+
 
 
 
