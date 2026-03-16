@@ -82,7 +82,7 @@ Developed by: Tharun Kumar V    RegisterNumber:*/212224240173
 
 
 **Half_Subtractor**
-
+![image alt](https://github.com/Tharunkumar916/HALF_ADDER_SUBTRACTOR/blob/9a12a531f9148fa7e800a6383c770ba7e2802d1f/ex3imgsub.jpg)
 
 
 
