@@ -94,4 +94,8 @@ Developed by: Tharun Kumar V    RegisterNumber:*/212224240173
 <img width="1918" height="632" alt="image" src="https://github.com/user-attachments/assets/420b5499-749d-4fd9-9c41-67a282f1f638" />
 
 
+**Half_Subtractor**
+
+
+
 **Result:**
