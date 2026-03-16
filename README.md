@@ -99,3 +99,4 @@ Developed by: Tharun Kumar V    RegisterNumber:*/212224240173
 
 
 **Result:**
+To design a half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming hence the above the output was verified
