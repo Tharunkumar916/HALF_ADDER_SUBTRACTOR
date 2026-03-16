@@ -95,7 +95,7 @@ Developed by: Tharun Kumar V    RegisterNumber:*/212224240173
 
 
 **Half_Subtractor**
-![image alt](
+![image alt](https://github.com/Tharunkumar916/HALF_ADDER_SUBTRACTOR/blob/835fa4cbf6f9bc0aba0293d173e79f17d45b5a0c/Screenshot%202026-03-16%20084618.png)
 
 
 **Result:**
